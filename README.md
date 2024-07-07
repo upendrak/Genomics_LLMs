@@ -14,6 +14,12 @@ Foundation Models are a broad class of large-scale models that serve as the base
 
 4. [Evo](https://lnkd.in/ewqTvcBZ): Evo is a DNA foundation model that can be used for modeling on a molecular to genome-scale.
 
+5. [DNABERT](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680): Pre-trained Bidirectional Encoder Representations from Transformers model for DNA language in genome
+
+6. [GenSLMs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9709791/): Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
+
+7. [The Nucleotide Transformer](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3): Building and Evaluating Robust Foundation Models for Genomics
+
 
 ## Large Language Models (LLMs) for Genomics
 
