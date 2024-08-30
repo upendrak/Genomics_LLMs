@@ -20,6 +20,8 @@ Foundation Models are a broad class of large-scale models that serve as the base
 
 7. [The Nucleotide Transformer](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3): Building and Evaluating Robust Foundation Models for Genomics
 
+8. [Genomic sequence classification](https://www.biorxiv.org/content/10.1101/2024.08.16.608288v1): Benchmarking DNA Foundation Models for Genomic Sequence Classification
+
 
 ## Large Language Models (LLMs) for Genomics
 
@@ -27,4 +29,6 @@ LLMs are a subset of foundation models specifically focused on Genomic related t
 
 1. [CodonBert](https://genome.cshlp.org/content/early/2024/06/28/gr.278870.123): CodonBert is a LLM for RNA that mainly helps with the optimization of codons in a mRNA sequence. CodonBERT uses codons as inputs which enables it to learn better representations. CodonBERT was trained using more than 10 million mRNA sequences from diverse organisms. The resulting model captures important biological concepts. CodonBERT can also be extended to perform prediction tasks for various mRNA properties.
    
-2. [BioLLMBench](https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1): A Comprehensive Benchmarking of LLMs in Bioinformatics. 
+2. [BioLLMBench](https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1): A Comprehensive Benchmarking of LLMs in Bioinformatics.
+
+3. [Genomic Language Models: Opportunities and Challenges](https://arxiv.org/abs/2407.11435v1)
